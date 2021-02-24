@@ -2,5 +2,10 @@ h1{
   font-size: 24px;
   padding-left: 16px;
   border-left: 5px solid chocolate;
+  color: pink;
   display: inline-block;
+}
+
+li{
+  list-style: none;
 }
